@@ -1,6 +1,7 @@
 #include <map>
-
 #include <stdio.h>
+
+#include "general.h"
 
 #define DEBUG 0
 #define print_debug(fmt, ...) \
